@@ -1,2 +1,46 @@
 # Marlbroke
 A report on smoking dependency in low income households fostered by big tobacco. 
+
+Folder Navigation: 
+
+Data Sources:
+	2017-Annual: Data from the United Health Foundation's annual health rankings report (https://www.americashealthrankings.org)*
+	Smoking Data- Sheet one: UHF 2017 data (filtered and organized)	
+	SurgeonGeneralData- Data from the surgeon general 2012 US Department of Health and Human Services report on preventing youth tobacco use (also contains source location for slide 4)
+	SurgeonGeneralFullReprt- pdf of the report
+		*link cited in ppt
+Infographic:
+	See navigaiton instructions below
+	Screenshots: Screen captures of each slide (font and formatting are not preserved through the ppt when opened on a different computer)
+
+Infographic Navigation:
+
+OPEN > Infographic > MarlbrokeFinalVersion.pdf 
+
+Slide 2- 
+Clicking on the pictograph will take you to maps comparing the rate of smoking based on median household income 
+	mouse over the |?| to view caption for map. mouse over again to remove
+	click each box in the menu (left) to view that map
+	click the back button to return to the previous slide 
+	click the home button to return to slide 1
+Clicking on the pie chart will take you to maps comparing the rate of smoking based on highest completed level of education
+	mouse over the |?| to view caption for map. mouse over again to remove
+	click each box in the menu (left) to view that map
+	click the back button to return to the previous slide 
+	click the home button to return to slide 1
+Slide 3- 
+Clicking inside the pie graphs will open an excel document (YouthInitiation.xlxs)
+	click a sociodemographic factor on the lefthand menu to view the graph for that factor
+	click a grade on the righthand menu to add/remove that grade from the graph
+	click the 'multi-select' button on the top of either menu to view multiple grades/factors on the same graph
+	'Sheet 1' contains original data table and source location 
+	click 'RETURN' to return to the slide document and navigate back to slide 5
+Slide 5-
+Clicking inside the red box (bottom left) will open an excel document (BrandPref.xlxs)
+	click the types/brands to filter the view of the graph
+	'Sheet 1' contains original data table and source location 
+	click 'RETURN' to return to the powerpoint and navigate back to slide 5
+
+-END OF PRESENTATION
+
+
